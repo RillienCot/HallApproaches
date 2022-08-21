@@ -25,7 +25,8 @@ ax.plot(view_window, score_frame)
 ax.set_title("Percentage of Times Won as a Factor of How Often the Player Switches Doors")
 ax.set_xlabel("How often the player switched doors (percentage)")
 ax.set_ylabel("How often the prize was found (percentage)")
-plt.show()```
+plt.show()
+```
 
 Output:
-![alt text](Win Profile.png)
+![Win Profile](WinProfile.png)
