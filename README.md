@@ -26,3 +26,6 @@ ax.set_title("Percentage of Times Won as a Factor of How Often the Player Switch
 ax.set_xlabel("How often the player switched doors (percentage)")
 ax.set_ylabel("How often the prize was found (percentage)")
 plt.show()```
+
+Output:
+![alt text](Win Profile.png)
